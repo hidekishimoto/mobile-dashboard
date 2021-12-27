@@ -21,11 +21,5 @@ O ***dashboard DESKTOP*** pode ser visualizado online e de maneira interativa cl
 Infelizmente, pela limitação do app Power BI Mobile em que somente contas registradas têm acesso aos dashboards para smartphone, não é possível criar um link público no formato mobile. No entanto, como uma maneira de driblar isso, seguem os prints de meu próprio celular com o ***dashboard MOBILE***:
 
 <p align="center">
-  <img src="https://i.imgur.com/iXGQRmf.jpg" width="400" height="711">
-</p>
-<p align="center">
-    <img src="https://i.imgur.com/EJCouft.jpg" width="400" height="711">
-</p>
-<p align="center">
-    <img src="https://i.imgur.com/5DYoUa0.jpg" width="400" height="711">
+  <img src="https://i.imgur.com/WLu2VF6.jpg">
 </p>
