@@ -13,7 +13,7 @@
 O ***dashboard DESKTOP*** pode ser visualizado online e de maneira interativa clicando na imagem abaixo:
 
 <p align="center">
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYTM0YjQ5ZDktYzIyOC00NGNmLWIwYjQtOWY3NzcwMDEyNGMwIiwidCI6ImMwZDAzYmU4LTdkNWUtNGVkMS04MGJkLWQxZDIwYmExNGE3MSJ9"><img src="https://i.imgur.com/sHOjmlm.png"></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTM0YjQ5ZDktYzIyOC00NGNmLWIwYjQtOWY3NzcwMDEyNGMwIiwidCI6ImMwZDAzYmU4LTdkNWUtNGVkMS04MGJkLWQxZDIwYmExNGE3MSJ9"><img src="https://i.imgur.com/Y7II8vW.png"></a>
 </p>
 
 ### Dashboard Mobile
